@@ -24,7 +24,8 @@
   },
   "homepage": "https://github.com/campossergio/node#readme",
   "dependencies": {
-    "colors": "^1.4.0"
+    "colors": "^1.4.0",
+    "readline-sync": "^1.4.10"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
