@@ -1,7 +1,20 @@
-# nodejs
+# CURSO DE NODE.JS
 
-INTRODUÇÃO AO CURSO DE NODE.JS 
+Curso inicial para aprendeer os conceitos básicos de desenvolvimento de node.js
 
-COMANDOS BÁSICOS DO NODE.JS,
-VARIÁVEIS VAR LET E CONST,
-FUNÇÕES E ARROW FUNCTIONS
+Através deste  curso você aprenderá como sobre as variáveis var, let e const e como utiliza-lás em algumas situaçes além de conhecer alguns conceitos sobre declaração de funcões e arrow functions.
+
+## 📚 Documentação
+
+- [Documentação Git](https://git-scm.com/doc)
+- [Documentação GitHub](https://docs.github.com/)
+- [Documentação Node.js](https://nodejs.org/en/docs)
+
+## 💻 Tecnologias Utilizadas 
+
+- HTML
+- CSS
+- JAVASCRIPT
+- NODE.JS
+
+EMOJI - TECLA WINDOWS + . 👌👈
