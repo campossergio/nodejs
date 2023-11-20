@@ -17,4 +17,9 @@ Através deste  curso você aprenderá como sobre as variáveis var, let e const
 - JAVASCRIPT
 - NODE.JS
 
-EMOJI - TECLA WINDOWS + . 👌👈
+## Autores
+
+- [@campossergio](https://github.com/campossergio)
+
+![Logo](https://i.postimg.cc/bNqN5kxC/logotipo-portfolio.png)
+
